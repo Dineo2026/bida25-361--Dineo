@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head><title>Booking Confirmation - RoomBooking.com</title></head>
+<body>
+  <h1>Booking Confirmed!</h1>
+  <p>Thank you for your reservation. Your booking reference number is <strong>#RB12345</strong>.</p>
+  <a href="index.html">Return to Home</a>
+</body>
+</html>
